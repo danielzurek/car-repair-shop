@@ -12,9 +12,9 @@ CarRepairShop is a simple Java EE Web Application for manage car repair shop. Pr
 
 ## Screenshots:
 
-<img src="https://i.imgur.com/6ABW93Q.png" width="250" />  <img src="https://i.imgur.com/38jCOdp.png" width="250" />  <img src="https://i.imgur.com/undefined.png" width="250" />
+<img src="https://i.imgur.com/mh724fT.png" width="250" />  <img src="https://i.imgur.com/A3JSytq.png" width="250" />  <img src="https://i.imgur.com/GQogBgj.png" width="250" />
 
-<img src="https://i.imgur.com/undefined.png" width="250" />  <img src="https://i.imgur.com/YhohDIE.png" width="250" />  <img src="https://i.imgur.com/WUYLAz0.png" width="250" />
+<img src="https://i.imgur.com/RiNVyjz.png" width="250" />  <img src="https://i.imgur.com/SAxxwNf.png" width="250" />  <img src="https://i.imgur.com/uf8nuJD.png" width="250" />
 
 
 ## Used technologies: 
